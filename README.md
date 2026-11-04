@@ -25,7 +25,7 @@ Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Univers
 | Função | Instituição / Programa |
 | :--- | :--- |
 | **Estagiária** | Tribunal de Justiça do Amapá (TJAP) |
-| **Bolsista de Iniciação Tecnológica** | PIBTI - CNPq |
+| **Bolsista de Iniciação Tecnológica** | PIBITI - CNPq |
 | **Monitora Acadêmica** | UNIFAP (Disciplina: Autômatos e Linguagens Formais) |
 
 ---
@@ -42,15 +42,6 @@ Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Univers
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL](https://img.shields.io/badge/Data-ETL-orange?style=for-the-badge)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial"/>
-</div>
 
 ---
 
