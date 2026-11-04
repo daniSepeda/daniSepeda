@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá mundo! 👋 
 
-<!--
-**daniSepeda/daniSepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-Here are some ideas to get you started:
+### 🎓 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial.
+
+* **🎯 Qualidades:** Proativa, pesquisadora e com facilidade para trabalho em equipe. Sempre em busca de novos conhecimentos e desafios técnicos.
+
+---
+
+### 🚀 Atualmente
+
+* 🏛️ **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP)
+* 🤖 **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial
+* 🎓 **Graduanda em Ciência da Computação** (UNIFAP)
+
+---
+
+### 💼 Experiências Anteriores
+
+| Função | Instituição / Programa |
+| :--- | :--- |
+| **Estagiária** | Tribunal de Justiça do Amapá (TJAP) |
+| **Bolsista de Iniciação Tecnológica** | PIBTI - CNPq |
+| **Monitora Acadêmica** | UNIFAP (Disciplina: Autômatos e Linguagens Formais) |
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+#### **Desenvolvimento Web**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Engenharia de Dados & IA**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/Data-ETL-orange?style=for-the-badge)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por Daniela Sepeda ✨</sub>
+</div>
