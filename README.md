@@ -1,8 +1,9 @@
 # Olá mundo! 👋 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-004A8F?style=for-the-badge)](http://lattes.cnpq.br/SEU_NUMERO_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/daniela-sepeda)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniSepeda)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danihaber06@gmail.com)
 
 ### 🎓 Sobre mim
 
@@ -44,7 +45,6 @@ Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Univers
 ![ETL](https://img.shields.io/badge/Data-ETL-orange?style=for-the-badge)
 
 ---
-
 <div align="center">
   <sub>Desenvolvido por Daniela Sepeda ✨</sub>
 </div>
