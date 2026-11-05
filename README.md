@@ -4,11 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/daniela-sepeda)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danihaber06@gmail.com)
 
-### Sobre mim
+## Sobre mim
+
+<img align="left" width="220" src="img/branch.gif" alt="branch gif">
 
 Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP), e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
 
-### Habilidades Técnicas
+## Habilidades Técnicas
 
 #### **Desenvolvimento Web**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
