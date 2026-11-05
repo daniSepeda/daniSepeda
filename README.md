@@ -4,33 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/daniela-sepeda)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danihaber06@gmail.com)
 
-### 🎓 Sobre mim
+### Sobre mim
 
-Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial.
+Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP), e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
 
-* **🎯 Qualidades:** Proativa, pesquisadora e com facilidade para trabalho em equipe. Sempre em busca de novos conhecimentos e desafios técnicos.
-
----
-
-### 🚀 Atualmente
-
-* 🏛️ **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP)
-* 🤖 **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial
-* 🎓 **Graduanda em Ciência da Computação** (UNIFAP)
-
----
-
-### 💼 Experiências Anteriores
-
-| Função | Instituição / Programa |
-| :--- | :--- |
-| **Estagiária** | Tribunal de Justiça do Amapá (TJAP) |
-| **Bolsista de Iniciação Tecnológica** | PIBITI - CNPq |
-| **Monitora Acadêmica** | UNIFAP (Disciplina: Autômatos e Linguagens Formais) |
-
----
-
-### 🛠️ Habilidades Técnicas
+### Habilidades Técnicas
 
 #### **Desenvolvimento Web**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
