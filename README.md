@@ -1,13 +1,13 @@
-# Olá mundo! 👋 
+# Olá mundo! 👋
+
+<img align="left" width="300" src="img/flowers.gif" alt="flowers gif">
+
+### Sobre mim
+Sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no **Tribunal de Justiça do Amapá (TJAP)**, e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
 
 [![Lattes](https://img.shields.io/badge/Lattes-004A8F?style=for-the-badge)](http://lattes.cnpq.br/SEU_NUMERO_ID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/daniela-sepeda)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danihaber06@gmail.com)
-
-<img align="left" width="300" hspace="20" src="img/branch.gif" alt="branch gif">
-
-## Sobre mim
-Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP), e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
 
 <br clear="left"/>
 
