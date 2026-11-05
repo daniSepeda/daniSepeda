@@ -6,9 +6,11 @@
 
 ## Sobre mim
 
-<img align="left" width="220" src="img/branch.gif" alt="branch gif">
+<img align="left" width="300" src="img/branch.gif" alt="branch gif">
 
 Me chamo Daniela Sepeda, sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no Tribunal de Justiça do Amapá (TJAP), e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
+
+<br clear="left"/>
 
 ## Habilidades Técnicas
 
