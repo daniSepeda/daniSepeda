@@ -1,6 +1,6 @@
 # Olá mundo! 👋
 
-<img align="left" width="280" src="img/flowers.gif" alt="flowers gif">
+<img align="left" width="280" hspace="30" src="img/flowers.gif" alt="flowers gif">
 
 ### Sobre mim
 Sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (UNIFAP)** e entusiasta da área de tecnologia, com foco em desenvolvimento web, engenharia de dados e inteligência artificial. Atualmente, sou **Residente Tecnológica** no **Tribunal de Justiça do Amapá (TJAP)**, e **Residente em TIC** pelo programa **IndustrIA**, com foco em Inteligência Artificial.
