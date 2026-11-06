@@ -27,7 +27,4 @@ Sou acadêmica de **Ciência da Computação na Universidade Federal do Amapá (
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![ETL](https://img.shields.io/badge/Data-ETL-green?style=for-the-badge)
 
----
-<div align="center">
-  <sub>Desenvolvido por Daniela Sepeda ✨</sub>
-</div>
+
